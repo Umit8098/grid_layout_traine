@@ -1,1 +1,1 @@
-# grid_layout_train
+# grid layout tutorial
